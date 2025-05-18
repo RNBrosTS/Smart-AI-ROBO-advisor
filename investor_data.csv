@@ -1,0 +1,6 @@
+Username,Age,Gender,Education Level,Marital Status,Income,Credit Score,Loan Amount,Loan Purpose,Employment Status,Years at Current Job,Payment History,Debt-to-Income Ratio,Assets Value,Number of Dependents,Previous Defaults,Marital Status Change,Predicted Risk,Recommended Stocks
+abcd1234@gmail.com,49,Male,PhD,Single,72799,688,45713,Business,Employed,6,Poor,0.15,120228,0,2,2,🔴 High,12.Mutual_Funds
+abcd1234@gmail.com,49,Male,PhD,Single,72799,688,45713,Business,Employed,6,Poor,0.15,120228,0,2,2,🔴 High,12.Mutual_Funds
+abcd1234@gmail.com,56,Non-binary,PhD,Married,21084,702,22084,Personal,Employed,19,Fair,0.213,226050,2,0,2,🟡 Medium,"00DSEX, 3RDICB, 00DSES, 00DS30, 06.Food_&_Allied"
+abcd1234@gmail.com,49,Male,PhD,Single,72799,688,45713,Business,Employed,6,Poor,0.15,120228,0,2,2,🔴 High,12.Mutual_Funds
+abcd1234@gmail.com,19,Female,Bachelor's,Single,7279,300,4571888,Personal,Employed,3,Poor,0.15,120228,2,2,2,🟡 Medium,"00DSEX, 3RDICB, 00DSES, 00DS30, 06.Food_&_Allied"
